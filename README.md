@@ -1,2 +1,2 @@
 # webview-fullpage-screenshot
-a webview app where you can click.screenshot without implementing any dependency
+a webview app where you can click screenshot on fab click without implementing any dependency
