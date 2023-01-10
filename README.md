@@ -6,4 +6,5 @@ a webview app where you can click screenshot on fab click without implementing a
 
 
 
-![Example image](https://github.com/kuttahaitu/webview-fullpage-screenshot/ScreenShots/Screenshot_2023-01-10-10-09-18-939_com.example.wfpss.jpg)
+![Example image](https://github.com/kuttahaitu/webview-fullpage-screenshot/preview/p1.jpg)
+https://github.com/kuttahaitu/webview-fullpage-screenshot/blob/main/
