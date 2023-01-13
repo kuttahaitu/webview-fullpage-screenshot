@@ -1,4 +1,4 @@
-package com.cri.wsapp;
+package com.example.wfpss;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
