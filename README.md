@@ -9,4 +9,6 @@ a webview app where you can click screenshot on fab click without implementing a
 <h1>Preview</h1>
 
 
-![PreView image](http://github.com/kuttahaitu/webview-fullpage-screenshot/blob/main/preview/p1.jpg)
+![PreView image](https://github.com/kuttahaitu/webview-fullpage-screenshot/blob/main/preview/p1.jpg)
+![PreView image](https://github.com/kuttahaitu/webview-fullpage-screenshot/blob/main/preview/p2.jpg)
+![PreView image](https://github.com/kuttahaitu/webview-fullpage-screenshot/blob/main/preview/p3.jpg)
